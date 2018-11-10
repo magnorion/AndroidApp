@@ -17,4 +17,6 @@
     <string name="vr">Vale Refeição</string>
     <string name="cupom">Cupom</string>
     <string name="btn_calcular">Calcular</string>
+
+    <string name="saldacao">Ola %1$s, vamos ligar para o numero %2$s</string>
 </resources>
